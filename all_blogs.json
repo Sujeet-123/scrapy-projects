@@ -1,0 +1,77 @@
+[
+    {
+        "title": "IMPORTANT!",
+        "summary": null,
+        "author": "Upendra",
+        "date": "November 28, 2019",
+        "categories": [
+            "Python",
+            "Web Scraping"
+        ],
+        "tags": []
+    },
+    {
+        "title": "Part 2 of BS4 Selenium,\u00a0Scrapy",
+        "summary": null,
+        "author": "Upendra",
+        "date": "December 17, 2019",
+        "categories": [
+            "Web Scraping"
+        ],
+        "tags": [
+            "Python",
+            "Scrapy"
+        ]
+    },
+    {
+        "title": "Introduce Yourself",
+        "summary": null,
+        "author": "Upendra",
+        "date": "December 17, 2019",
+        "categories": [
+            "Uncategorized"
+        ],
+        "tags": []
+    },
+    {
+        "title": "Part 3 of Scrapy and\u00a0JSON",
+        "summary": null,
+        "author": "Upendra",
+        "date": "December 17, 2019",
+        "categories": [
+            "Python"
+        ],
+        "tags": [
+            "Code",
+            "Python"
+        ]
+    },
+    {
+        "title": "Part 1 of Scrapy and\u00a0JSON",
+        "summary": null,
+        "author": "Upendra",
+        "date": "December 14, 2019",
+        "categories": [
+            "Python"
+        ],
+        "tags": [
+            "Code",
+            "Python"
+        ]
+    },
+    {
+        "title": "Send Mail using\u00a0Python",
+        "summary": null,
+        "author": "Upendra",
+        "date": "December 14, 2019",
+        "categories": [
+            "Python",
+            "Web Scraping"
+        ],
+        "tags": [
+            "Code",
+            "mail",
+            "Python"
+        ]
+    }
+]
